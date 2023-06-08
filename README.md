@@ -29,3 +29,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## ScreenShot
+!["main page"]https://github.com/Ssangbomb/jungle-rails/blob/master/doc/jungle3.jpeg?raw=true
+!["Order confirmation"]https://github.com/Ssangbomb/jungle-rails/blob/master/doc/jungle1.jpeg?raw=true
+!["process payment"]https://github.com/Ssangbomb/jungle-rails/blob/master/doc/jungle2.jpeg?raw=true
