@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. This project give me a scenario, when customer ask more feature on their web application. And I learnd how to test with rspec, cypress-rails. 
 
 ## Setup
 
